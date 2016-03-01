@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Einstiegsseite der floralen_formgebung
-datePublished: '2016-03-01T19:40:24.412Z'
-dateModified: '2016-03-01T19:39:47.172Z'
+datePublished: '2016-03-01T19:45:42.578Z'
+dateModified: '2016-03-01T19:40:33.990Z'
 title: florale_formgebung Mario Steininger
 author: []
 sourcePath: _posts/2016-03-01-florale_formgebung-mario-steininger.md
