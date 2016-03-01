@@ -12,8 +12,8 @@ inLanguage: de
 app_links: []
 isBasedOnUrl: 'http://www.mariosteininger.bplaced.net/wordpress/'
 title: 'florale formgebung | florale gestaltungen'
-datePublished: '2016-03-01T19:24:51.557Z'
-dateModified: '2016-03-01T19:22:42.094Z'
+datePublished: '2016-03-01T19:24:51.939Z'
+dateModified: '2016-03-01T19:22:27.855Z'
 sourcePath: _posts/2016-03-01-florale-formgebung-or-florale-gestaltungen.md
 published: true
 inFeed: true
