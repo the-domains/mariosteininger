@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Florale Formgebung Mario Steininger]]></title>
-        <description><![CDATA[Florale Formgebung Mario Steininger]]></description>
+        <title><![CDATA[florale formgebung Mario Steininger]]></title>
+        <description><![CDATA[florale formgebung Mario Steininger]]></description>
         <link>https://thegrid.ai/mariosteininger/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 19:49:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2016 20:00:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mariosteininger/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[florale_formgebung Mario Steininger]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/mariosteininger/florale_formgebung-mario-steininger/index.html</link>
             <guid isPermaLink="false">0adecdea-b297-405a-a4f9-b2a3030321e0</guid>
             <pubDate>Tue, 01 Mar 2016 19:47:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/52130bf8-b958-40de-9638-cfe89763447f.jpg">]]></description>
+            <link>https://thegrid.ai/mariosteininger/1ecfafe5-00c2-4926-a0cf-3c332996bc37/index.html</link>
+            <guid isPermaLink="false">1ecfafe5-00c2-4926-a0cf-3c332996bc37</guid>
+            <pubDate>Tue, 01 Mar 2016 20:00:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
