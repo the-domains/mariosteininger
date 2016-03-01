@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[florale formgebung Mario Steininger]]></title>
         <description><![CDATA[florale formgebung Mario Steininger]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mariosteininger/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 21:08:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 01 Mar 2016 21:09:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mariosteininger/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c55c8f0c-269e-40c7-8fae-c59e8622eb4d.png">]]></description>
-            <link>undefined46ab1528-8255-4867-8755-cb94b75ec158/index.html</link>
+            <link>https://thegrid.ai/mariosteininger/46ab1528-8255-4867-8755-cb94b75ec158/index.html</link>
             <guid isPermaLink="false">46ab1528-8255-4867-8755-cb94b75ec158</guid>
-            <pubDate>Tue, 01 Mar 2016 21:08:19 GMT</pubDate>
+            <pubDate>Tue, 01 Mar 2016 21:09:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
