@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[florale formgebung Mario Steininger]]></title>
+        <description><![CDATA[florale formgebung Mario Steininger]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 17:13:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How blockbuster 3D moviemaking techniques brought the Uffizi's masterpieces to the world]]></title>
+            <description><![CDATA[<article><h1>How blockbuster 3D moviemaking techniques brought the Uffizi's masterpieces to the world</h1><p>With all the current interest in virtual reality, it's fascinating to see what's already being done with NUKE in the field of dimensioning and stereoscopic 3D. Steve Wright, a visual effects industry veteran with 20 years' experience on over 70 feature films, worked with Sky 3D to bring Renaissance masterpieces from Florence's Uffizi Gallery to moviegoers all over the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/950b6c5f69112ded260de0b4cd2953f7da5d2482.jpg"></article>]]></description>
+            <link>https://www.thefoundry.co.uk/blog/the-renaissance-masters-go-hollywood/#</link>
+            <guid isPermaLink="false">2d5dd704-32a8-4181-9d63-a40ede598478</guid>
+            <pubDate>Fri, 04 Mar 2016 17:13:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
