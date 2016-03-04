@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://www.thefoundry.co.uk'
-  name: Thefoundry
-  favicon: 'https://www.thefoundry.co.uk/favicon.ico'
-  domain: www.thefoundry.co.uk
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.thefoundry.co.uk/blog/the-renaissance-masters-go-hollywood/#'
+inLanguage: en
+starred: false
 keywords:
   - stereo
   - medusa
@@ -18,17 +17,20 @@ keywords:
   - dimensionalized
   - masterpiece
 description: "With all the current interest in virtual reality, it's fascinating to see what's already being done with NUKE in the field of dimensioning and stereoscopic 3D. Steve Wright, a visual effects industry veteran with 20 years' experience on over 70 feature films, worked with Sky 3D to bring Renaissance masterpieces from Florence's Uffizi Gallery to moviegoers all over the world."
-inLanguage: en
+datePublished: '2016-03-04T17:16:25.049Z'
+dateModified: '2016-03-04T17:14:09.820Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://www.thefoundry.co.uk/blog/the-renaissance-masters-go-hollywood/#'
 title: "How blockbuster 3D moviemaking techniques brought the Uffizi's masterpieces to the world"
-datePublished: '2016-03-04T17:13:58.121Z'
-dateModified: '2016-03-04T17:04:46.827Z'
 sourcePath: _posts/2016-03-04-how-blockbuster-3d-moviemaking-techniques-brought-the-uffizi.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Thefoundry
+  domain: www.thefoundry.co.uk
+  url: 'https://www.thefoundry.co.uk'
+  favicon: 'https://www.thefoundry.co.uk/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
