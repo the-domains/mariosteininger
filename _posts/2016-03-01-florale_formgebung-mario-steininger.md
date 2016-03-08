@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-08T22:40:46.629Z'
-dateModified: '2016-03-08T22:40:46.229Z'
+datePublished: '2016-03-08T22:45:25.241Z'
+dateModified: '2016-03-08T22:45:20.920Z'
 title: "on location\_"
 author: []
 sourcePath: _posts/2016-03-01-florale_formgebung-mario-steininger.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: on-location/index.html
-_type: Article
+_type: Blurb
 
 ---
 # [on location ][0]
