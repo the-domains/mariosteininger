@@ -1,4 +1,4 @@
-name: mario steininger
+name: Mario Steininger
 favicon: null
 layout_spectrum: 0.74806
 typography_spectrum: 0.50129
@@ -34,7 +34,7 @@ color:
     - '#3b393c'
     - '#e0e6e3'
     - '#8f8e8f'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 1
   saturation: 0.125
   rhythmicContrast: 0.5
