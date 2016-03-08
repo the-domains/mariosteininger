@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-08T22:45:25.241Z'
-dateModified: '2016-03-08T22:45:20.920Z'
+datePublished: '2016-03-08T22:45:43.189Z'
+dateModified: '2016-03-08T22:45:34.236Z'
 title: "on location\_"
 author: []
 sourcePath: _posts/2016-03-01-florale_formgebung-mario-steininger.md
