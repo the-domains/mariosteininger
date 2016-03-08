@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Einstiegsseite der floralen_formgebung
-datePublished: '2016-03-08T22:30:07.836Z'
-dateModified: '2016-03-08T22:29:17.241Z'
+description: ''
+datePublished: '2016-03-08T22:40:46.629Z'
+dateModified: '2016-03-08T22:40:46.229Z'
 title: "on location\_"
 author: []
 sourcePath: _posts/2016-03-01-florale_formgebung-mario-steininger.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: on-location/index.html
+_type: Article
 
 ---
 # [on location ][0]
