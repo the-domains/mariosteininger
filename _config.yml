@@ -1,4 +1,4 @@
-name: mariosteininger
+name: mario steininger
 favicon: null
 layout_spectrum: 0.74806
 typography_spectrum: 0.50129
@@ -30,11 +30,11 @@ opengraph:
 color:
   brandColors:
     - '#ffffff'
-    - '#aa5749'
-    - '#710017'
-    - '#de795d'
-    - '#cbc2c3'
-  brandStrength: 0
+    - '#93b4a0'
+    - '#3b393c'
+    - '#e0e6e3'
+    - '#8f8e8f'
+  brandStrength: 1
   lightness: 1
   saturation: 0.125
   rhythmicContrast: 0.5
