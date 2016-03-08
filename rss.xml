@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[florale konzepte]]></title>
         <description><![CDATA[florale konzepte]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mariosteininger/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 22:17:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 22:20:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mariosteininger/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[contact]]></title>
+            <description><![CDATA[<article><h1>contact</h1><p>Mario Steininger, florale formgebungFlorale KonzepteLiechtensteinstraße 91/7a1090 WienAustriamobil. +43-660-7605841email. mail@mariosteininger.cominternet.www.mariosteininger.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c05267f90a4bf7e4de85dc80391655493a37c368.jpg"></article>]]></description>
+            <link>https://thegrid.ai/mariosteininger/2bfded09-8e7c-4ea3-91c2-10f185c24950/index.html</link>
+            <guid isPermaLink="false">2bfded09-8e7c-4ea3-91c2-10f185c24950</guid>
+            <pubDate>Tue, 08 Mar 2016 22:19:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[AGB]]></title>
             <description><![CDATA[<article><h1>AGB</h1><p>Allgemeine Geschäftsbedingungen -</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/98ab4bd83e213b02e261addb1374ae654632c7c2.jpg"></article>]]></description>
-            <link>undefined46ab1528-8255-4867-8755-cb94b75ec158/index.html</link>
+            <link>https://thegrid.ai/mariosteininger/46ab1528-8255-4867-8755-cb94b75ec158/index.html</link>
             <guid isPermaLink="false">46ab1528-8255-4867-8755-cb94b75ec158</guid>
             <pubDate>Tue, 08 Mar 2016 22:17:52 GMT</pubDate>
         </item>
