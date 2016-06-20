@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Mario Steininger, florale formgebung'
-datePublished: '2016-06-20T18:56:36.700Z'
-dateModified: '2016-06-20T18:55:10.481Z'
+datePublished: '2016-06-20T19:15:45.775Z'
+dateModified: '2016-06-20T19:15:43.003Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-20-mario-steininger-florale-formgebung.md
@@ -19,7 +19,7 @@ _type: Article
 ---
 Mario Steininger, florale formgebung
 
-florale konzepte
+florale Konzepte
 
 Liechtensteinstraße 91/7a
 
