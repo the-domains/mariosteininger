@@ -1,20 +1,20 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: 'Mario Steininger, florale formgebung'
-datePublished: '2016-06-20T18:54:45.600Z'
-dateModified: '2016-06-20T18:54:30.145Z'
+datePublished: '2016-06-20T18:56:36.700Z'
+dateModified: '2016-06-20T18:55:10.481Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-20-mario-steininger-florale-formgebung.md
 authors: []
 publisher: null
-starred: true
+starred: false
 url: mario-steininger-florale-formgebung/index.html
-_type: WebPage
+_type: Article
 
 ---
 Mario Steininger, florale formgebung
@@ -33,7 +33,7 @@ email. mail@mariosteininger.com
 
 internet. [www.mariosteininger.com][0]
 
-[hier den Newsletter eintragen][1]  
+[hier den Newsletter eintragen][1]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9019fbe5-7701-49e1-bd58-f3a9b77871d3.png)
 
 [0]: http://www.mariosteininger.com/
