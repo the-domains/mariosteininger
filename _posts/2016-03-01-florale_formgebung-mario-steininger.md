@@ -4,21 +4,16 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-08T22:45:43.189Z'
-dateModified: '2016-03-08T22:45:34.236Z'
-title: "on location\_"
+datePublished: '2016-06-20T18:34:10.791Z'
+dateModified: '2016-06-20T18:18:47.010Z'
+title: 'on location '
 author: []
 sourcePath: _posts/2016-03-01-florale_formgebung-mario-steininger.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
+starred: false
 _type: Blurb
 
 ---
