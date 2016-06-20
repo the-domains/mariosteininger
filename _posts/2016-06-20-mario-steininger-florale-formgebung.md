@@ -1,20 +1,20 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
-description: 'Mario Steininger, florale formgebung '
-datePublished: '2016-06-20T18:23:28.783Z'
-dateModified: '2016-06-20T18:23:18.254Z'
+description: 'Mario Steininger, florale formgebung'
+datePublished: '2016-06-20T18:24:29.255Z'
+dateModified: '2016-06-20T18:24:04.805Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-20-mario-steininger-florale-formgebung.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-20-mario-steininger-florale-formgebung.md
 url: mario-steininger-florale-formgebung/index.html
-_type: Article
+_type: WebPage
 
 ---
 Mario Steininger, florale formgebung
