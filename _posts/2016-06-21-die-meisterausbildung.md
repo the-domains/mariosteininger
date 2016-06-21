@@ -7,8 +7,8 @@ keywords: []
 description: >-
   … im Jahr 1999 trat ich zur Meister Prüfung auf Schloss Schiltern an und
   schloss als jüngster Floristenmeister ab … 
-datePublished: '2016-06-21T19:24:42.613Z'
-dateModified: '2016-06-21T19:24:01.737Z'
+datePublished: '2016-06-21T19:25:15.100Z'
+dateModified: '2016-06-21T19:24:49.303Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-21-die-meisterausbildung.md
