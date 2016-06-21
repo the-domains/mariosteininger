@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Die Meisterausbildung
-datePublished: '2016-06-21T19:08:08.845Z'
-dateModified: '2016-06-21T19:04:06.886Z'
+datePublished: '2016-06-21T19:09:29.908Z'
+dateModified: '2016-06-21T19:08:17.895Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-21-die-meisterausbildung.md
