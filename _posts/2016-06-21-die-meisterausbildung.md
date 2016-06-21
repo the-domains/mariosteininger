@@ -7,8 +7,8 @@ keywords: []
 description: >-
   … im Jahr 1999 trat ich zur Meister Prüfung auf Schloss Schiltern an und
   schloss als jüngster Floristenmeister ab … 
-datePublished: '2016-06-21T19:12:40.273Z'
-dateModified: '2016-06-21T19:12:25.953Z'
+datePublished: '2016-06-21T19:18:06.369Z'
+dateModified: '2016-06-21T19:18:04.597Z'
 title: Die Meisterausbildung
 author: []
 sourcePath: _posts/2016-06-21-die-meisterausbildung.md
@@ -47,6 +47,10 @@ der gesamte Artikel von le fleuriste des Schweitzer Floristenverbandes
 [][0][][1]
 
 \>\>\> [hier herunterladen][2]\>\>\>
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/zPJIxW8mSu4" frameborder="0" allowfullscreen="" style=""></iframe>
+
+
 
 [0]: http://www.naturgestaltung.com/blatt_frameset.htm
 [1]: http://dl.dropbox.com/u/3739099/Wordpress/Filmpremiere.pdf
