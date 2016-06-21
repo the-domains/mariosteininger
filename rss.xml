@@ -4,14 +4,14 @@
         <description><![CDATA[florale formgebung Florale Konzepte]]></description>
         <link>https://thegrid.ai/mariosteininger/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 15:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2016 15:35:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mariosteininger/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Adventkranzseminar | florale formgebung]]></title>
             <description><![CDATA[<article><h1>Adventkranzseminar | florale formgebung</h1><p>Warning: file_get_contents() [ function.file-get-contents]: Zugriff via http:// ist in Verbindung mit bplaced pro gegeben. Mehr Infos unter: http://www.bplaced.net/?handler=ext in /users/mariosteininger/www/wordpress/wp-content/themes/blogum/functions.php on line 54 Warning: file_get_contents(http://tinyurl.com/api-create.php?url=http://www.mariosteininger.bplaced.net/wordpress/?p=232) [ function.file-get-contents]: failed to open stream: no suitable wrapper could be found in /users/mariosteininger/www/wordpress/wp-content/themes/blogum/functions.php on line 54 " target="_blank">Twitter</p></article>]]></description>
             <link>http://www.mariosteininger.bplaced.net/wordpress/?p=232</link>
             <guid isPermaLink="false">586f1829-848f-48bc-8d2d-11b0a3be7090</guid>
-            <pubDate>Tue, 21 Jun 2016 15:24:48 GMT</pubDate>
+            <pubDate>Tue, 21 Jun 2016 15:35:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
