@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '>>>Meisterschule>>>'
-datePublished: '2016-06-21T21:37:26.659Z'
-dateModified: '2016-06-21T21:37:26.000Z'
+datePublished: '2016-06-21T21:40:25.760Z'
+dateModified: '2016-06-21T21:40:25.153Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-21-die-meisterausbildung.md
