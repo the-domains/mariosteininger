@@ -1,8 +1,7 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.mariosteininger.bplaced.net/wordpress/?p=232'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: de
 keywords: []
 description: >-
@@ -16,8 +15,8 @@ description: >-
   could be found in
   /users/mariosteininger/www/wordpress/wp-content/themes/blogum/functions.php on
   line 54 " target="_blank">Twitter
-datePublished: '2016-06-21T15:36:05.892Z'
-dateModified: '2016-06-21T15:35:29.973Z'
+datePublished: '2016-06-21T15:42:01.630Z'
+dateModified: '2016-06-21T15:38:36.601Z'
 author: []
 related: []
 app_links: []
@@ -31,6 +30,7 @@ publisher:
   favicon: >-
     http://www.mariosteininger.bplaced.net/wordpress/wp-content/themes/blogum/images/favico.ico
 starred: false
+url: adventkranzseminar-or-florale-formgebung/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
