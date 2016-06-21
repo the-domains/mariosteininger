@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: www.mariosteininger.com
-datePublished: '2016-06-21T21:39:22.140Z'
-dateModified: '2016-06-21T21:38:35.484Z'
+datePublished: '2016-06-21T21:39:50.654Z'
+dateModified: '2016-06-21T21:39:32.206Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-01-florale_formgebung-mario-steininger.md
