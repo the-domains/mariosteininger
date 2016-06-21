@@ -1,20 +1,20 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Die Meisterausbildung
-datePublished: '2016-06-21T16:00:55.056Z'
-dateModified: '2016-06-21T15:58:27.706Z'
+datePublished: '2016-06-21T18:59:58.016Z'
+dateModified: '2016-06-21T18:55:41.455Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-21-die-meisterausbildung.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: die-meisterausbildung/index.html
-_type: Blurb
+_type: Article
 
 ---
 **Die Meisterausbildung**
