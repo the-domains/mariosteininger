@@ -5,14 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Florale Konzeption “Wiener Chic”
-datePublished: '2016-06-21T21:01:21.837Z'
-dateModified: '2016-06-21T21:01:13.771Z'
+datePublished: '2016-06-21T21:04:10.740Z'
+dateModified: '2016-06-21T21:04:07.069Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-06-21-florale-konzeption-wiener-chic.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-21-florale-konzeption-wiener-chic.md
 url: florale-konzeption-wiener-chic/index.html
 _type: Article
 
@@ -21,7 +23,6 @@ _type: Article
 
 2003 Kollektion "Wiener Chic" -- Modeprozession durch Wiens ersten Bezirk --
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8a97a4a-fd72-4970-8734-8efbfe333a9c.jpg)
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd24b1b9-debf-49ff-bfd6-ba6f3d278898.jpg)
 
 Für die Prozession durch die Wiener Innenstadt wurden kleine Sträußchen, farblich zur Kollektion passend, gefertigt.
