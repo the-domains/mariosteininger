@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Die Meisterausbildung
-datePublished: '2016-06-21T15:56:58.849Z'
-dateModified: '2016-06-21T15:56:52.095Z'
+datePublished: '2016-06-21T15:58:20.005Z'
+dateModified: '2016-06-21T15:58:00.876Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-21-die-meisterausbildung.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-21-die-meisterausbildung.md
 url: die-meisterausbildung/index.html
 _type: Blurb
 
@@ -47,6 +47,7 @@ der gesamte Artikel von le fleuriste des Schweitzer Floristenverbandes
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd71b73b-5d14-4d98-8de8-5181cedb10c5.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22984ad9-39ff-43f1-962d-28049a60887f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45fdc5ff-798b-40cf-9b9a-6303fc41c98c.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13cb7737-5b07-4efe-b3b1-7c7a7e50d354.jpg)
 
 [0]: http://www.naturgestaltung.com/blatt_frameset.htm
 [1]: http://dl.dropbox.com/u/3739099/Wordpress/Filmpremiere.pdf
