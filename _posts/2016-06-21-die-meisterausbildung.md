@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Die Meisterausbildung
-datePublished: '2016-06-21T19:04:04.558Z'
-dateModified: '2016-06-21T19:03:58.767Z'
+datePublished: '2016-06-21T19:08:08.845Z'
+dateModified: '2016-06-21T19:04:06.886Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-21-die-meisterausbildung.md
 authors: []
 publisher: null
-starred: true
+starred: false
 url: die-meisterausbildung/index.html
 _type: Article
 
