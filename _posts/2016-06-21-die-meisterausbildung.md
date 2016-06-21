@@ -5,9 +5,11 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Die Meisterausbildung
-datePublished: '2016-06-21T18:59:58.016Z'
-dateModified: '2016-06-21T18:55:41.455Z'
-title: ''
+datePublished: '2016-06-21T19:00:30.082Z'
+dateModified: '2016-06-21T19:00:25.106Z'
+title: >-
+  … im Jahr 1999 trat ich zur Meister Prüfung auf Schloss Schiltern an und
+  schloss als jüngster Floristenmeister ab … 
 author: []
 sourcePath: _posts/2016-06-21-die-meisterausbildung.md
 authors: []
@@ -19,7 +21,7 @@ _type: Article
 ---
 **Die Meisterausbildung**
 
-... im Jahr 1999 trat ich zur Meister Prüfung auf Schloss Schiltern an und schloss als jüngster Floristenmeister ab ... 
+# ... im Jahr 1999 trat ich zur Meister Prüfung auf Schloss Schiltern an und schloss als jüngster Floristenmeister ab ... 
 
 \>\>\>[Meisterschule][0]\>\>\>
 
