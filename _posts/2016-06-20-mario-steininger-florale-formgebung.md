@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Mario Steininger, florale formgebung'
-datePublished: '2016-06-21T15:31:01.149Z'
-dateModified: '2016-06-21T15:27:48.378Z'
+datePublished: '2016-06-21T15:36:01.995Z'
+dateModified: '2016-06-21T15:35:47.514Z'
 author: []
 sourcePath: _posts/2016-06-20-mario-steininger-florale-formgebung.md
 title: ''
