@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Rückblick Life Ball 2007 – damals so wichtig wie heute …
-datePublished: '2016-06-22T19:31:20.520Z'
-dateModified: '2016-06-22T19:30:45.335Z'
+datePublished: '2016-06-22T19:31:33.210Z'
+dateModified: '2016-06-22T19:31:25.476Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-22-ruckblick-life-ball-2007-damals-so-wichtig-wie-heute-.md
