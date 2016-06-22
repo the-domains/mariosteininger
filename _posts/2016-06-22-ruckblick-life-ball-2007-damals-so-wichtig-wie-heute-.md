@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Rückblick Life Ball 2007 – damals so wichtig wie heute …
-datePublished: '2016-06-22T19:38:01.011Z'
-dateModified: '2016-06-22T19:37:55.933Z'
+datePublished: '2016-06-22T19:43:49.690Z'
+dateModified: '2016-06-22T19:43:44.636Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-22-ruckblick-life-ball-2007-damals-so-wichtig-wie-heute-.md
@@ -28,14 +28,11 @@ Anlässlich des Life Balls welches unter dem Motto Once upon a Time stand wurde 
 
 hier zur \>\>\>[Style Bible][0]\>\>\>
 
-hier zu Falter Artikel \>\>\>[Prinzessin Hoffung][1]\>\>\>
-
-hier zu Vienna Online \>\>\>[Once upon a time- Eine märchenhafte Marken Inszenierung][2]\>\>\>
+hier zu Vienna Online \>\>\>[Once upon a time- Eine märchenhafte Marken Inszenierung][1]\>\>\>
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/ajS1DgUiyuc" frameborder="0" allowfullscreen="" style=""></iframe>
 
 
 
 [0]: http://www.vienna.at/life-ball-2007---style-bible/news-20070219-04062701
-[1]: https://www.falter.at/web/print/detail.php?id=485&sub_id=208
-[2]: http://www.vienna.at/once-upon-a-time--eine-maerchenhafte-marken-inszenierung/news-20070508-04153609
+[1]: http://www.vienna.at/once-upon-a-time--eine-maerchenhafte-marken-inszenierung/news-20070508-04153609
