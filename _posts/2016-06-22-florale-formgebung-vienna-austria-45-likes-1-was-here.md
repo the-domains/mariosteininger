@@ -19,19 +19,19 @@ related: []
 publisher:
   url: 'https://www.facebook.com'
   name: Facebook
-  favicon: 'https://www.facebook.com/rsrc.php/yV/r/hzMapiNYYpW.ico'
+  favicon: 'https://static.xx.fbcdn.net/rsrc.php/yV/r/hzMapiNYYpW.ico'
   domain: www.facebook.com
 keywords:
   - floralen
   - cke
   - formgebung
+  - issuu
   - kollektion
   - werkst
   - wiener
   - finden
   - farben
-  - blumen
-  - issuu
+  - floralef
 description: >-
   florale formgebung, Vienna, Austria. 45 likes · 1 was here. florale formgebung
   mario steininger florale konzepte
@@ -49,9 +49,9 @@ app_links:
     app_name: Facebook
     app_store_id: '284882215'
 isBasedOnUrl: >-
-  https://www.facebook.com/86713124587/photos/ms.c.eJwzMbQwMzEzMrc0tTDXMwFzjA1NkDhGSBwTYxQOkh4TE5AMAGlRD9c~-.bps.a.418645129587.190411.86713124587/418646279587/?type=3
-datePublished: '2016-06-22T19:21:40.174Z'
-dateModified: '2016-06-22T19:19:35.030Z'
+  https://www.facebook.com/86713124587/photos/pcb.10153258611949588/10153258609084588/?type=3
+datePublished: '2016-06-22T19:21:51.372Z'
+dateModified: '2016-06-22T19:19:20.532Z'
 starred: false
 sourcePath: _posts/2016-06-22-florale-formgebung-vienna-austria-45-likes-1-was-here.md
 inFeed: true
