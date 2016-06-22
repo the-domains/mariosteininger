@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Rückblick Life Ball 2007 – damals so wichtig wie heute …
-datePublished: '2016-06-22T20:35:51.798Z'
-dateModified: '2016-06-22T20:35:35.662Z'
+datePublished: '2016-06-22T20:41:09.648Z'
+dateModified: '2016-06-22T20:41:04.046Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-22-ruckblick-life-ball-2007-damals-so-wichtig-wie-heute-.md
@@ -17,6 +17,8 @@ url: ruckblick-life-ball-2007-damals-so-wichtig-wie-heute-/index.html
 _type: Article
 
 ---
+# Life Ball
+
 > Der Life Ball -- eine der größten und spektakulärsten jährlichen Wohltätigkeitsveranstaltungen weltweit -- erweckt starkes internationales Interesse und hohe öffentliche Aufmerksamkeit. Im Vordergrund dieses außergewöhnlichen Balls steht jedoch nicht nur das ausgelassene Treiben der „Party People" oder aufsehenerregende Live-Auftritte, sondern v.a. der Kampf gegen AIDS. (Wikipedia)
 
 Rückblick Life Ball 2007 -- damals so wichtig wie heute ...
