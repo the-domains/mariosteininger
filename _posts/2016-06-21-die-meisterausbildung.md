@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Meisterschule
-datePublished: '2016-06-21T22:02:08.352Z'
-dateModified: '2016-06-21T21:57:47.413Z'
+datePublished: '2016-06-22T20:35:48.525Z'
+dateModified: '2016-06-22T20:35:22.686Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-21-die-meisterausbildung.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: die-meisterausbildung/index.html
 _type: Article
 
