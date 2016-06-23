@@ -4,20 +4,20 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Adventkranzseminar
-datePublished: '2016-06-22T19:54:36.827Z'
-dateModified: '2016-06-22T19:54:09.109Z'
-title: ''
+description: '>>> hier gehts zum Adventkranzseminarfolder>>>'
+datePublished: '2016-06-23T18:05:27.911Z'
+dateModified: '2016-06-23T18:05:22.031Z'
+title: Adventkranzseminar
 author: []
+sourcePath: _posts/2016-06-22-adventkranzseminar.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-22-adventkranzseminar.md
 url: adventkranzseminar/index.html
 _type: Article
 
 ---
-Adventkranzseminar
+# Adventkranzseminar
 
 \>\>\> [hier gehts zum Adventkranzseminarfolder][0]\>\>\>
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84103cf1-94c3-4893-9255-61464e56cb06.png)
