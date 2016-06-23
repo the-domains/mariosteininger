@@ -4,10 +4,10 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Florale Konzeption “Wiener Chic”
-datePublished: '2016-06-21T22:02:07.998Z'
-dateModified: '2016-06-21T21:53:27.961Z'
-title: ''
+description: 2003 Kollektion “Wiener Chic” – Modeprozession durch Wiens ersten Bezirk –
+datePublished: '2016-06-23T18:18:22.431Z'
+dateModified: '2016-06-23T18:18:19.427Z'
+title: Florale Konzeption “Wiener Chic”
 author:
   - name: ''
     url: ''
@@ -19,7 +19,7 @@ url: florale-konzeption-wiener-chic/index.html
 _type: Article
 
 ---
-**Florale Konzeption "Wiener Chic"**
+# Florale Konzeption "Wiener Chic"
 
 2003 Kollektion "Wiener Chic" -- Modeprozession durch Wiens ersten Bezirk --
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8a97a4a-fd72-4970-8734-8efbfe333a9c.jpg)
