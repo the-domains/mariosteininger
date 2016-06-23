@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-23T17:10:23.531Z'
-dateModified: '2016-06-23T17:10:17.314Z'
+datePublished: '2016-06-23T17:10:44.262Z'
+dateModified: '2016-06-23T17:10:37.647Z'
 title: Hochzeit am Wolfangsee
 author: []
 authors: []
 publisher: null
-starred: false
 sourcePath: _posts/2016-06-23-hochzeit-am-wolfangsee.md
+starred: true
 url: hochzeit-am-wolfangsee/index.html
 _type: Article
 
