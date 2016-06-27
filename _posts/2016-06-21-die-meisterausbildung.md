@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Die Aufgabenstellung war: handwerkliche Werkstücke im floristischen Bereich
   herzustellen…
-datePublished: '2016-06-27T19:50:20.269Z'
-dateModified: '2016-06-27T19:50:16.283Z'
+datePublished: '2016-06-27T19:51:28.919Z'
+dateModified: '2016-06-27T19:50:24.800Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-21-die-meisterausbildung.md
