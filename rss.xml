@@ -4,7 +4,7 @@
         <description><![CDATA[florale formgebung Florale Konzepte]]></description>
         <link>https://thegrid.ai/mariosteininger/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 18:27:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2016 19:42:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mariosteininger/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Die Meisterausbildung]]></title>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/mariosteininger/ruckblick-life-ball-2007-damals-so-wichtig-wie-heute-/index.html</link>
             <guid isPermaLink="false">6728e778-5402-4cde-88cf-8defc5ac961b</guid>
             <pubDate>Wed, 22 Jun 2016 20:43:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sal. Oppenheim Cup - Poloturnier]]></title>
+            <description><![CDATA[<article><h1>Sal. Oppenheim Cup - Poloturnier</h1><p>Location: Schloss Ebreichsdorf - Wien</p></article>]]></description>
+            <link>https://thegrid.ai/mariosteininger/sal-oppenheim-cup-poloturnier/index.html</link>
+            <guid isPermaLink="false">89d37263-b18e-4ff3-86f7-344a3103ca12</guid>
+            <pubDate>Mon, 27 Jun 2016 19:42:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Strategien zur Förderung beruflicher Fähig-und Fertigkeiten]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/mariosteininger/biography/index.html</link>
             <guid isPermaLink="false">2bfded09-8e7c-4ea3-91c2-10f185c24950</guid>
             <pubDate>Wed, 22 Jun 2016 19:11:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Floristikseminar]]></title>
-            <description><![CDATA[<article><h1>Floristikseminar</h1><p>Von 19. – 21. März fand ein Floristikseminar mit Franz Josef Wein (Naturgestaltung) in der LBS Geras statt.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7c636804032df1e3fcdffcfbb2622f8d/croprotate.jpg?cropheight=2816&cropwidth=2112&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fb106a8b0-8dfc-43ab-b52c-47527e8583d8.jpg&x=0&y=0"></article>]]></description>
-            <link>https://thegrid.ai/mariosteininger/floristikseminar/index.html</link>
-            <guid isPermaLink="false">ef13160c-42ee-4ee1-bcae-2da89192d11e</guid>
-            <pubDate>Tue, 21 Jun 2016 21:15:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
