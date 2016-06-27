@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Location: Schloss Ebreichsdorf - Wien'
-datePublished: '2016-06-27T19:45:17.371Z'
-dateModified: '2016-06-27T19:45:14.267Z'
+datePublished: '2016-06-27T19:45:29.910Z'
+dateModified: '2016-06-27T19:45:22.876Z'
 title: Sal. Oppenheim Cup - Poloturnier
 author: []
 sourcePath: _posts/2016-06-27-sal-oppenheim-cup-poloturnier.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: sal-oppenheim-cup-poloturnier/index.html
 _type: Article
 
