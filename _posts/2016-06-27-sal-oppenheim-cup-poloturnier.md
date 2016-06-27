@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Location: Schloss Ebreichsdorf - Wien'
-datePublished: '2016-06-27T19:42:07.259Z'
-dateModified: '2016-06-27T19:41:52.573Z'
+datePublished: '2016-06-27T19:45:17.371Z'
+dateModified: '2016-06-27T19:45:14.267Z'
 title: Sal. Oppenheim Cup - Poloturnier
 author: []
+sourcePath: _posts/2016-06-27-sal-oppenheim-cup-poloturnier.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-27-sal-oppenheim-cup-poloturnier.md
 url: sal-oppenheim-cup-poloturnier/index.html
 _type: Article
 
@@ -27,6 +27,7 @@ Veranstaltung : Poloturnier
 
 1100 Gäste, Dekoration für den Lunch und ein Lounge Zelt.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/298c37ed-fe6a-4c4e-bd37-0563beada790.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9c00f5d-cd9c-47b6-bff9-f5a8d21a9125.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e4275e4-0134-4c0a-8669-9d7f1f8c761d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8faaa5a-966e-4e84-8c48-b757a2a654d9.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a46f8f0-dd8e-437f-86a2-b79357c787c1.jpg)
