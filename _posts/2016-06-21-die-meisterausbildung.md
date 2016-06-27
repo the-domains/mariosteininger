@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 keywords: []
 description: >-
-  … im Jahr 1999 trat ich zur Meister Prüfung auf Schloss Schiltern an und
-  schloss als jüngster Floristenmeister ab … Meisterschule
-datePublished: '2016-06-26T18:27:10.401Z'
-dateModified: '2016-06-26T18:24:58.454Z'
+  Die Aufgabenstellung war: handwerkliche Werkstücke im floristischen Bereich
+  herzustellen…
+datePublished: '2016-06-27T19:50:20.269Z'
+dateModified: '2016-06-27T19:50:16.283Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-21-die-meisterausbildung.md
@@ -19,7 +19,9 @@ url: die-meisterausbildung/index.html
 _type: Article
 
 ---
-... im Jahr 1999 trat ich zur Meister Prüfung auf Schloss Schiltern an und schloss als jüngster Floristenmeister ab ... [Meisterschule][0]
+# die Meisterausbildung
+
+... im Jahr 1999 trat ich zur Meister Prüfung auf Schloss Schiltern an und schloss als jüngster Floristenmeister ab ... 
 
 Die Aufgabenstellung war: handwerkliche Werkstücke im floristischen Bereich herzustellen...
 
@@ -40,7 +42,7 @@ florale Gestaltung: Mario Steininger
 
 der gesamte Artikel von le fleuriste des Schweitzer Floristenverbandes
 
-\>\>\> [hier herunterladen][1]\>\>\>
+\>\>\> [hier herunterladen][0]\>\>\>
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aff50408-ee3a-483e-97ba-22a6ac0c6034.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b104ede-af51-4774-9a7d-8979042ec662.jpg)
 
@@ -48,5 +50,4 @@ der gesamte Artikel von le fleuriste des Schweitzer Floristenverbandes
 
 
 
-[0]: http://www.naturgestaltung.com/blatt_frameset.htm
-[1]: https://dl.dropboxusercontent.com/u/3739099/Wordpress/Filmpremiere.pdf
+[0]: https://dl.dropboxusercontent.com/u/3739099/Wordpress/Filmpremiere.pdf
