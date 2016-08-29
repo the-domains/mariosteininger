@@ -1,11 +1,30 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+typography_spectrum: 0.50129
+color:
+  saturation: 0.125
+  brandStrength: 1
+  rhythmicContrast: 0.5
+  brandColors:
+    - '#ffffff'
+    - '#93b4a0'
+    - '#3b393c'
+    - '#e0e6e3'
+    - '#8f8e8f'
+  lightness: 1
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.74806
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Mario Steininger
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -18,24 +37,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0.74806
 title: florale formgebung Florale Konzepte
-cta:
-  bucket: null
-  version: null
-  domain: null
-color:
-  saturation: 0.125
-  brandStrength: 1
-  rhythmicContrast: 0.5
-  brandColors:
-    - '#ffffff'
-    - '#93b4a0'
-    - '#3b393c'
-    - '#e0e6e3'
-    - '#8f8e8f'
-  lightness: 1
 purpose: []
-favicon: null
-name: Mario Steininger
-typography_spectrum: 0.50129
