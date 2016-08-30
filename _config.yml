@@ -19,12 +19,15 @@ analytics:
   twitter: null
   google: null
   facebook: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f0b7da4-23af-4428-8d7a-a92969ca0980.jpg
 name: Mario Steininger
 cta:
   bucket: null
   version: null
   domain: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/31067074-73e1-480f-90a9-93d7e6aaef5f.jpg
 collections:
   - index:
       path: /
