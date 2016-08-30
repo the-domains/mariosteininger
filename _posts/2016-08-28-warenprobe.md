@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-28T15:33:56.033Z'
+datePublished: '2016-08-28T15:34:28.942Z'
 sourcePath: _posts/2016-08-28-warenprobe.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-28T15:33:55.593Z'
+dateModified: '2016-08-28T15:34:28.204Z'
 title: Warenprobe
 publisher: {}
 description: ''
@@ -14,7 +14,7 @@ url: warenprobe/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af04fb1d-14d6-40cf-b074-5f079db1790f.png)
+![Warenprobe](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af04fb1d-14d6-40cf-b074-5f079db1790f.png)
 
 # Warenprobe
 
