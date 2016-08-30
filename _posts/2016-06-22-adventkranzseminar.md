@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-28T15:04:07.235Z'
+datePublished: '2016-08-28T15:04:07.234Z'
 sourcePath: _posts/2016-06-22-adventkranzseminar.md
 inFeed: true
 authors: []
