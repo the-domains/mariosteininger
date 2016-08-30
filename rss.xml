@@ -4,8 +4,15 @@
         <description><![CDATA[florale formgebung Florale Konzepte]]></description>
         <link>https://thegrid.ai/mariosteininger/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 15:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 15:34:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mariosteininger/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Warenprobe]]></title>
+            <description><![CDATA[<article><h1>Warenprobe</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af04fb1d-14d6-40cf-b074-5f079db1790f.png"></article>]]></description>
+            <link>https://thegrid.ai/mariosteininger/warenprobe/index.html</link>
+            <guid isPermaLink="false">4a20d2f3-4bb9-4376-b7eb-52d6a1346363</guid>
+            <pubDate>Sun, 28 Aug 2016 15:33:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Die Meisterausbildung]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/22984ad9-39ff-43f1-962d-28049a60887f.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/mariosteininger/ff733cdd-cea0-42d6-b373-9860e9a00478/index.html</link>
             <guid isPermaLink="false">ff733cdd-cea0-42d6-b373-9860e9a00478</guid>
             <pubDate>Thu, 23 Jun 2016 18:12:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Weihnachtsfolder]]></title>
-            <description><![CDATA[<article><h1>Weihnachtsfolder</h1><p>Was tun, wenn die Maya sich geirrt haben und am 21. Dezember die Welt nicht untergeht?</p></article>]]></description>
-            <link>https://thegrid.ai/mariosteininger/fgssgf/index.html</link>
-            <guid isPermaLink="false">11bfb8ce-2c30-4d9c-a2da-4ee6fdac35ee</guid>
-            <pubDate>Wed, 22 Jun 2016 19:40:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
