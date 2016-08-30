@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-28T15:32:34.462Z'
+datePublished: '2016-08-28T15:33:56.033Z'
 sourcePath: _posts/2016-08-28-warenprobe.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-28T15:32:34.044Z'
+dateModified: '2016-08-28T15:33:55.593Z'
 title: Warenprobe
 publisher: {}
 description: ''
-starred: false
+starred: true
 url: warenprobe/index.html
 _type: Article
 
