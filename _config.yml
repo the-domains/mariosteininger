@@ -30,6 +30,9 @@ navigation:
   - name: florale formgebung
     url: 'http://www.mariosteininger.com'
     type: external
+  - name: contact
+    id: 4cf54320-b60d-4f93-b2e1-496221252fd2
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/31067074-73e1-480f-90a9-93d7e6aaef5f.jpg
 collections:
