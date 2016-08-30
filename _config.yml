@@ -36,6 +36,9 @@ navigation:
   - name: biography
     id: 2bfded09-8e7c-4ea3-91c2-10f185c24950
     type: content
+  - name: AGB
+    id: 46ab1528-8255-4867-8755-cb94b75ec158
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/31067074-73e1-480f-90a9-93d7e6aaef5f.jpg
 collections:
