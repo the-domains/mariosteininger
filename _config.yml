@@ -26,6 +26,10 @@ cta:
   bucket: null
   version: null
   domain: null
+navigation:
+  - name: florale formgebung
+    url: 'http://www.mariosteininger.com'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/31067074-73e1-480f-90a9-93d7e6aaef5f.jpg
 collections:
