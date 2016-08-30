@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-28T15:12:55.961Z'
+datePublished: '2016-08-28T15:14:51.776Z'
 sourcePath: _posts/2016-06-22-adventkranzseminar.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-28T15:12:55.147Z'
+dateModified: '2016-08-28T15:14:51.289Z'
 title: Adventkranzseminar
 publisher: {}
 description: '>>> hier gehts zum Adventkranzseminarfolder>>>'
@@ -26,9 +26,6 @@ _type: Article
 In meinem Jahr in der Schweiz hatte ich die Möglichkeit ein Teambuilding-Seminar welches über das Handwerk angeleitet wurde abzuhalten. Dabei durfte ich ein ausgesprochen motiviertes Team in deren Fähigkeiten und Fertigkeiten begleiten und handwerklich anleiten.
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx9jUEOwiAQAO--gqx3QCpEk9K_tLAVkkWSBdLv2-jdOU9m5rzzWlAcOfbkwVkNImF-pe5hMhZE4-BBKZS5tTFkqEVh2TDK1AtdndbPx2TUTRt7N-70v7mtckT2cMZWonrsg6gFRnwvs_odl8s_PpMhJ_A" style=""></iframe>
-
-    <div data-configid="6009832/10254265" style="width:650px; height:325px;" class="issuuembed"></div>
-    <script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
 
 Es hat super Spaß gemacht - die Ergebnisse sagen alles.
 
